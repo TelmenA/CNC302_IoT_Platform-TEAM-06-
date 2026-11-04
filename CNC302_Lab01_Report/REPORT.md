@@ -345,7 +345,6 @@ ORDER BY time DESC LIMIT 1;
 4. EMQX documentation: https://docs.emqx.com/
 5. InfluxDB 3 Core documentation: https://docs.influxdata.com/influxdb3/core/
 6. Grafana documentation: https://grafana.com/docs/
-7. ChatGPT (OpenAI): 2026-10-22–2026-11-04, командын тайлбар, алдааны оношилгоо, хэмжилтийн тооцоолол, тайлан боловсруулахад туслав. Тоон мэдээллийг хэрэглэгчийн 2026-10-22-ны терминал, Grafana screenshot-уудтай тулгав.
 
 ---
 
